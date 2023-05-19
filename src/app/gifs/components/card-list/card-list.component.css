@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    .col-md-3 {
+        width: 50%;
+    }
+    .btn {
+        width: 400%;
+    }
+}
